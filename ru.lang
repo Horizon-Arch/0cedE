@@ -6561,16 +6561,14 @@ item.16006.name=Жетон лояльности
 item.15999.name=Гадкие сладости
 item.15998.name=Ледяные осколки
 item.15994.name=Ледяные осколки
-item.16770.name=Чёрная Фишка
-item.16770.additional_stats_tip=Начисляет одну Черну Фишку. Черные Фишки используются в рейтинговом режиме события «Черный Рейд»
-item.16771.name=Малый набор Черных Фишек
-item.16771.additional_stats_tip=Начисляет 6 Черных Фишек. Черные Фишки используются в рейтинговом режиме события «Черный Рейд»
-item.16772.name=Стандартный набор Черных Фишек
-item.16772.additional_stats_tip=Начисляет 12 Черных Фишек. Черные Фишки используются в рейтинговом режиме события «Черный Рейд»
-item.16773.name=Большой набор Черных Фишек
-item.16773.additional_stats_tip=Начисляет 25 Черных Фишек. Черные Фишки используются в рейтинговом режиме события «Черный Рейд»
-item.misc.inside_injection.name=Инъекция «прорыва»
-item.misc.inside_injection.additional_stats_tip=Особый «коктейль» на основе добытых из Изнанки химикатов. Ученые пока не могут до конца объяснить принцип его работы, но он, похоже, на некоторое время «усиливает» связь исследователя с Изнанкой. Это делает исследователя, с одной стороны, более уязвимым перед Изнанкой, но, с другой стороны, упрощает ему добычу оникса.
+item.misc.bet_coin_6.name=Малый набор инъекций
+item.misc.bet_coin_6.additional_stats_tip=Начисляет 6 инъекций «прорыва». Инъекции «прорыва» используются в рейтинговом режиме события «Назад в Изнанку»
+item.misc.bet_coin_12.name=Стандартный набор инъекций
+item.misc.bet_coin_12.additional_stats_tip=Начисляет 12 инъекций «прорыва». Инъекции «прорыва» используются в рейтинговом режиме события «Назад в Изнанку»
+item.misc.bet_coin_25.name=Большой набор инъекций
+item.misc.bet_coin_25.additional_stats_tip=Начисляет 25 инъекций «прорыва». Инъекции «прорыва» используются в рейтинговом режиме события «Назад в Изнанку»
+item.misc.bet_coin.name=Инъекция «прорыва»
+item.misc.bet_coin.additional_stats_tip=Особый «коктейль» на основе добытых из Изнанки химикатов. Ученые пока не могут до конца объяснить принцип его работы, но он, похоже, на некоторое время «усиливает» связь исследователя с Изнанкой. Это делает исследователя, с одной стороны, более уязвимым перед Изнанкой, но, с другой стороны, упрощает ему добычу оникса.
 item.battlepass.point.name=Очки Боевого Пропуска
 item.battlepass.point_hw22.name=Очки Боевого Пропуска
 item.battlepass.point_blizzard23.name=Очки Боевого Пропуска
@@ -8339,6 +8337,7 @@ item.lootbox.spring25_tickets_small.description=
 item.lootbox.spring25_tickets_big.name=Памятная шкатулка
 item.lootbox.spring25_tickets_big.description=
 item.lootbox.spring25_furniture.name=Набор тематического декора для Убежища
+item.lootbox.spring25_top_furniture.name=Декоративный набор Изнанки
 item.lootbox.halloween_2023.name=Спонсорский подгон
 item.lootbox.halloween_2023.description=placeholder
 item.lootbox.halloween_2023.item_origin_tip=Приобретение у обменщика, награды Боевого пропуска
@@ -8362,6 +8361,8 @@ item.lootbox.shadowwealth.name=Контейнер «Тень богатств»
 item.lootbox.shadowwealth.additional_stats_tip=Внутри находится краска «Тень богатств» для оружия и брони
 item.lootbox.black_gold.name=Контейнер «Черное Золото»
 item.lootbox.black_gold.additional_stats_tip=Внутри находится краска «Черное Золото» для оружия и брони
+item.lootbox.odd_mosaic.name=Контейнер «Иная мозаика»
+item.lootbox.odd_mosaic.additional_stats_tip=Внутри находится краска «Иная мозаика» для оружия и брони
 item.lootbox.zivcasmist.name=Контейнер «Туман озарения»
 item.lootbox.zivcasmist.additional_stats_tip=Внутри находится краска «Туман озарения» для оружия и брони
 item.lootbox.phantomscream.name=Контейнер «Фантомный крик»
@@ -15016,6 +15017,7 @@ item.wpn.ak308_a.name=АК-308 Арсенала
 item.wpn.x95_a.name=X95 Арсенала
 item.wpn.m16a3_rune_a.name=«Руна» Арсенала
 item.wpn.svu_mod_a.name=«Волна» Арсенала
+item.wpn.invertor_a.name=«Инвертор» Арсенала
 item.wpn.arsenal.additional_stats_tip=Оружие улучшено в мастерской Арсенала
 item.exp.rgn.description=Российская осколочная ударная наступательная граната
 item.exp.rgn.name=РГН
@@ -18716,6 +18718,8 @@ go.misc.spring25_lamp.name=Фантомный свет
 go.misc.spring25_budka.name=Фантомная будка
 go.misc.spring25_lenin.name=Искаженный вождь
 go.misc.spring25_bar.name=Бар Иной Стороны
+go.misc.spring25_chimera_head.name=Голова Морока
+go.misc.spring25_chimera_statue.name=Статуэтка Морока
 
 go.hideout_dummy.name=Мишень-манекен
 go.shooting_tracker.name=Экран статистики
@@ -20106,12 +20110,12 @@ dmz.leagues.4.name=Черные налетчики
 dmz.leagues.5.name=Оперативники
 dmz.leagues.6.name=Рекруты
 
-inside.leagues.1.name=#1 (ТОП 250)
-inside.leagues.2.name=#2 (<= 5%)
-inside.leagues.3.name=#3 (> 5% <= 15%)
-inside.leagues.4.name=#4 (> 15% <= 30%)
-inside.leagues.5.name=#5 (> 30% <= 50%)
-inside.leagues.6.name=#6
+inside.leagues.1.name=Легенда Изнанки
+inside.leagues.2.name=Восставший
+inside.leagues.3.name=Фантом
+inside.leagues.4.name=Искаженный
+inside.leagues.5.name=Опустошенный
+inside.leagues.6.name=Тень
 
 menulinks.help.forum=Форум
 menulinks.help.support=Служба поддержки
